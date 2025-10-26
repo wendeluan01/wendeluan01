@@ -1,6 +1,6 @@
 # 👨‍💻  Wendel luan
 
-**'Desenvolvedor Fullstack'**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Thin+100+Italic&letterSpacing=0.2rem;&pause=1000&color=F80000&background=FF191900&repeat=false&width=440&lines=Desenvolvedor+Full+Stack" alt="Typing SVG" /></a>
 
 Me chamo Wendel Luan Padilha lourenço, tenho 19 anos e sou natural da Paraiba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonado por tecnologia e Estou em busca da Primeira oportunidade de Crescer na área para aplicar todo os meus conhecimentos e evoluir profissionalmente.
 
